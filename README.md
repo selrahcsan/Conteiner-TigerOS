@@ -36,6 +36,12 @@ Baixe o docker file como git:
 git clone https://github.com/selrahcsan/Conteiner-TigerOS.git
 ```
 
+Acesse o diretório :
+```bash
+cd Conteiner-TigerOS
+```
+
+
 Para construir a imagem:
 ```bash
 docker build -t tigeros
