@@ -44,5 +44,5 @@ docker build -t tigeros
 ## Como executar:
 
 ```bash
-docker run -it meu-ubuntu-custom
+docker run -it tigeros
 ```
