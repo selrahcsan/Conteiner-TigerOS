@@ -40,8 +40,6 @@ Acesse o diretório :
 ```bash
 cd Conteiner-TigerOS
 ```
-
-
 Para construir a imagem:
 ```bash
 docker build -t tigeros
